@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Mada&family=Poppins:wght@200;900&display=swap');
+*{
+    /*Para limpar todos os formatos antes de aplicar os definidos pelo usuários*/
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100vh; /*100 % da tela*/
+    box-sizing: border-box; /*Para que nenhum elemento sai da página do body*/
+    background-color:#282626;  /* Cor de fundo da pagina */   
+}
+.p1{
+    color: #fffff;
+}
