@@ -10,5 +10,44 @@ body{
     background-color:#282626;  /* Cor de fundo da pagina */   
 }
 .p1{
-    color: #fffff;
+    color: #ffffff;
+    font-family:'Mada', sans-serif;
+}
+.div_cabecalho{
+    background:#000000;
+    height:150px;     
+    margin-left: 10px;
+    color:#FBF8F8;
+    font-family: 'Mada', sans-serif;     
+    
+}
+.div_imagem_centro{
+    height: 400px;
+    width: 100%;
+    background: #3a3a4032;
+    margin-top: 10px;    
+   
+    color:#FBF8F8;
+    font-family: 'Mada', sans-serif;      
+    
+}
+.imagem_cabecalho{
+    height:150px; 
+    width: 50%;
+    background-image: url(./image01.png);
+     background-size: contain;
+    border:none;
+  
+}
+.div_rodape{
+    height:150px;
+    margin-top: 10px;  
+    margin-left: 10px; 
+    background:#3a3a4032;
+    color:#FBF8F8;
+    clear:both
+    
+    
+
+
 }
